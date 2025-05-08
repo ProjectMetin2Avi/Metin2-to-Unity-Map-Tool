@@ -1,4 +1,4 @@
-# Metin2toUnity Map Tool Scripts
+# Metin2 to Unity Map Tool Scripts
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-2020.3%2B-blue" alt="Unity Version">
